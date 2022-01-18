@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "title": "Beetlejuice",
+    "actors": [
+      "Alec Baldwin",
+      "Geena Davis",
+      "Annie McEnroe"
+    ],
+    "stageDirector": "Tim Burton",
+    "productionDate": [
+      1988,
+      12,
+      8
+    ],
+    "supportedSpokenLanguages": [
+      "English",
+      "Greek"
+    ],
+    "supportedSubtitleLanguages": [
+      "Greek",
+      "English"
+    ],
+    "duration": 92,
+    "type": "Comedy",
+    "quantityAvailable": 100,
+    "cost": 5
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "actors": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler"
+    ],
+    "stageDirector": "Frank Darabont",
+    "productionDate": [
+      1994,
+      11,
+      3
+    ],
+    "supportedSpokenLanguages": [
+      "English",
+      "Greek"
+    ],
+    "supportedSubtitleLanguages": [
+      "Greek",
+      "English"
+    ],
+    "duration": 142,
+    "type": "Crime",
+    "quantityAvailable": 10,
+    "cost": 15.2
+  },
+  {
+    "id": 3,
+    "title": "Ratatouille",
+    "actors": [
+      "Patton Oswalt",
+      "Ian Hol",
+      "Lou Romano",
+      "Brian Dennehy"
+    ],
+    "stageDirector": "Brad Bird",
+    "productionDate": [
+      2007,
+      5,
+      3
+    ],
+    "supportedSpokenLanguages": [
+      "English",
+      "Greek"
+    ],
+    "supportedSubtitleLanguages": [
+      "Greek",
+      "English"
+    ],
+    "duration": 111,
+    "type": "Animation",
+    "quantityAvailable": 35,
+    "cost": 7.5
+  },
+  {
+    "id": 4,
+    "title": "Memento",
+    "actors": [
+      "Guy Pearce",
+      "Carrie-Anne Moss",
+      "Joe Pantoliano",
+      "Mark Boone Junior"
+    ],
+    "stageDirector": "Christopher Nolan",
+    "productionDate": [
+      2000,
+      4,
+      8
+    ],
+    "supportedSpokenLanguages": [
+      "English",
+      "Greek"
+    ],
+    "supportedSubtitleLanguages": [
+      "Greek",
+      "English"
+    ],
+    "duration": 113,
+    "type": "Animation",
+    "quantityAvailable": 100,
+    "cost": 10
+  },
+  {
+    "id": 5,
+    "title": "The Intouchables",
+    "actors": [
+      "François Cluzet",
+      "Omar Sy",
+      "Anne Le Ny",
+      "Audrey Fleurot"
+    ],
+    "stageDirector": "Olivier Nakache",
+    "productionDate": [
+      2011,
+      7,
+      8
+    ],
+    "supportedSpokenLanguages": [
+      "English",
+      "Greek"
+    ],
+    "supportedSubtitleLanguages": [
+      "Greek",
+      "English"
+    ],
+    "duration": 112,
+    "type": "Drama",
+    "quantityAvailable": 4,
+    "cost": 17.2
+  },
+  {
+    "id": 6,
+    "title": "Taxi Driver",
+    "actors": [
+      "Diahnne Abbott",
+      "Frank Adu",
+      "Victor Argo",
+      "Gino Ardito"
+    ],
+    "stageDirector": "Martin Scorsese",
+    "productionDate": [
+      1976,
+      6,
+      8
+    ],
+    "supportedSpokenLanguages": [
+      "English",
+      "Greek"
+    ],
+    "supportedSubtitleLanguages": [
+      "Greek",
+      "English"
+    ],
+    "duration": 113,
+    "type": "Crime",
+    "quantityAvailable": 45,
+    "cost": 6.5
+  },
+  {
+    "id": 7,
+    "title": "Scarface",
+    "actors": [
+      "Al Pacino",
+      "Steven Bauer",
+      "Michelle Pfeiffer",
+      "Mary Elizabeth Mastrantonio"
+    ],
+    "stageDirector": "Brian De Palma",
+    "productionDate": [
+      1983,
+      11,
+      11
+    ],
+    "supportedSpokenLanguages": [
+      "English",
+      "Greek"
+    ],
+    "supportedSubtitleLanguages": [
+      "Greek",
+      "English"
+    ],
+    "duration": 170,
+    "type": "Crime",
+    "quantityAvailable": 55,
+    "cost": 12.5
+  },
+  {
+    "id": 8,
+    "title": "Django Unchained",
+    "actors": [
+      "Jamie Foxx",
+      "Leonardo DiCaprio",
+      "Christoph Waltz",
+      "Kerry Washington"
+    ],
+    "stageDirector": "Quentin Tarantino",
+    "productionDate": [
+      2012,
+      1,
+      1
+    ],
+    "supportedSpokenLanguages": [
+      "English",
+      "Greek"
+    ],
+    "supportedSubtitleLanguages": [
+      "Greek",
+      "English"
+    ],
+    "duration": 165,
+    "type": "Western",
+    "quantityAvailable": 60,
+    "cost": 12.5
+  },
+  {
+    "id": 9,
+    "title": "The Silence of the Lambs",
+    "actors": [
+      "Jodie Foster",
+      "Lawrence A. Bonney",
+      "Kasi Lemmons",
+      "Lawrence T. Wrentz"
+    ],
+    "stageDirector": "Jonathan Demme",
+    "productionDate": [
+      1991,
+      2,
+      3
+    ],
+    "supportedSpokenLanguages": [
+      "English",
+      "Greek"
+    ],
+    "supportedSubtitleLanguages": [
+      "Greek",
+      "English"
+    ],
+    "duration": 118,
+    "type": "Thriller",
+    "quantityAvailable": 43,
+    "cost": 18.5
+  },
+  {
+    "id": 10,
+    "title": "Pulp Fiction",
+    "actors": [
+      "John Travolta",
+      "Laura Lovelace",
+      "Amanda Plummer",
+      "Tim Roth"
+    ],
+    "stageDirector": "Quentin Tarantino",
+    "productionDate": [
+      1994,
+      5,
+      7
+    ],
+    "supportedSpokenLanguages": [
+      "English",
+      "Greek"
+    ],
+    "supportedSubtitleLanguages": [
+      "Greek",
+      "English"
+    ],
+    "duration": 154,
+    "type": "Crime",
+    "quantityAvailable": 47,
+    "cost": 11
+  }
+]
